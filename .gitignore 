@@ -21,6 +21,3 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
-
-# 내 프로젝트 특화
-# (먼저 빈칸으로 남겨두고 필요하면 나중에)
