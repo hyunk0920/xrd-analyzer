@@ -16,7 +16,7 @@ working tool.
 🚧 In progress — targeting v1.0.
 
 - [x] CSV parsing
-- [ ] Peak detection
+- [x] Peak detection
 - [ ] d-spacing calculation
 - [ ] Annotated plots
 - [ ] CLI interface
